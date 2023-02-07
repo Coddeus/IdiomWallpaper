@@ -9,7 +9,7 @@ This is originally made :
 
 - for OS which support diaporama wallpaper (if you want it to change regularly), BUT you can add your own code to make it change automatically anyway
 
-- for the English language, e.g. it does not support Chinese proverbs for now
+- for the English language, so you have to change the font in order to render other language systems (e.g. for Chinese proverbs)
 
 ## License
 
