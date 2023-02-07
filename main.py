@@ -55,7 +55,7 @@ idioms = [
     ["Comparing apples to oranges","Comparing two things that cannot be compared","as part of a sentence", "Common"],
     ["Costs an arm and a leg","Very expensive","as part of a sentence", "Common"],
     ["Do something at the drop of a hat","Do something without having planned beforehand","as part of a sentence", "Common"],
-    ["Do unto others as you would have them do unto you","Treat people fairly. Also known as""The Golden Rule""","by itself", "Common"],
+    ["Do unto others as you would have them do unto you","Treat people fairly. Also known as \"The Golden Rule\"","by itself", "Common"],
     ["Don't count your chickens before they hatch","Don't count on something good happening until it's happened.","by itself", "Common"],
     ["Don't cry over spilt milk","There's no reason to complain about something that can't be fixed","by itself", "Common"],
     ["Don't give up your day job","You're not very good at this","by itself", "Common"],
